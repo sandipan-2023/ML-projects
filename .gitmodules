@@ -1,0 +1,16 @@
+[submodule "cab fare model"]
+    path = cab fare model
+    url = https://github.com/sandipan-2023/ML-projects.git
+
+[submodule "Netflix Recommender System"]
+    path = Netflix Recommender System
+    url = https://github.com/sandipan-2023/ML-projects.git
+
+[submodule "Rainfall prediction"]
+    path = Rainfall prediction
+    url = https://github.com/sandipan-2023/ML-projects.git
+
+[submodule "Spam filter based on personal SMS data"]
+    path = Spam filter based on personal SMS data
+    url = https://github.com/sandipan-2023/ML-projects.git
+

@@ -1,0 +1,20 @@
+ 24-08-2023 12:07:00:372 [pid=11990 tid=11990] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 24-08-2023 12:07:00:373 [pid=11990 tid=11990] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 24-08-2023 12:07:00:373 [pid=11990 tid=11990] WARN   0:172 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 24-08-2023 12:07:00:374 [pid=11990 tid=11990] NOTICE  cufio-drv:705 running in compatible mode
+ 24-08-2023 12:07:00:374 [pid=11990 tid=11990] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 24-08-2023 12:07:00:375 [pid=11990 tid=11990] WARN   cufio-plat:429 GPU index 0 NVIDIA GeForce RTX 2060: Model Not Supported
+ 24-08-2023 12:07:00:375 [pid=11990 tid=11990] WARN   cufio-udev:165 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 24-08-2023 12:07:00:487 [pid=11990 tid=11990] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 24-08-2023 12:11:34:10 [pid=12108 tid=12108] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 24-08-2023 12:11:34:11 [pid=12108 tid=12108] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 24-08-2023 12:11:34:12 [pid=12108 tid=12108] WARN   0:172 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 24-08-2023 12:11:34:13 [pid=12108 tid=12108] NOTICE  cufio-drv:705 running in compatible mode
+ 24-08-2023 12:11:34:13 [pid=12108 tid=12108] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 24-08-2023 12:11:34:14 [pid=12108 tid=12108] WARN   cufio-plat:429 GPU index 0 NVIDIA GeForce RTX 2060: Model Not Supported
+ 24-08-2023 12:11:34:15 [pid=12108 tid=12108] WARN   cufio-udev:165 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 24-08-2023 12:11:34:154 [pid=12108 tid=12108] ERROR  cufio-topo-udev:431 no device entries present in platform topology
